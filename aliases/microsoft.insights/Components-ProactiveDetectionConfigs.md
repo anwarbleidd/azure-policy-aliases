@@ -1,4 +1,4 @@
-# microsoft.insights/Components/ProactiveDetectionConfigs
+# microsoft.insights/components/proactiveDetectionConfigs
 
 | Default Path | Alias |
 |---|---|
